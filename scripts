@@ -1,0 +1,16 @@
+# 💻 Scripts AWS CLI – EC2 LAMP Lab
+
+Este diretório contém os scripts usados para criar e configurar uma instância EC2 via **AWS CLI**, instalando automaticamente a pilha **LAMP (Linux, Apache, MariaDB e PHP)**.
+
+---
+
+## 🚀 Passo a Passo
+
+### 🧩 1. Configurar a AWS CLI
+
+```bash
+aws configure
+# AWS Access Key ID: ********
+# AWS Secret Access Key: ********
+# Default region name: us-west-2
+# Default output format: json
