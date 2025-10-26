@@ -1,1 +1,4 @@
+scripts/create-lamp-instance-v2.sh
+scripts/create-lamp-instance-userdata-v2.txt
+scripts/utils.sh
 
